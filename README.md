@@ -5,11 +5,12 @@
 - 🌱 Front-end Dev
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JV-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JV-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="JV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JV-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=124&color=000">
+  <img align="center" alt="JV-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-plain.svg?color=000">
+  <img align="center" alt="JV-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-plain.svg?color=000">
+  <img align="center" alt="JV-NODE" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=127&color=000">
+  <img align="center" alt="JV-NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="JV-NEST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
 </div>
 
   ##
